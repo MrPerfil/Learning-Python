@@ -13,3 +13,4 @@ print (list[0])
 #(If you import variable and variable, you will to write a LOT of code.)
 
 ##NOTE= If you run a python file with FROM command and the second file has errors, the output will show you erros in the other file too.
+#(for example, file1.py uses "from file2.py" but file2.py has a bad syntax. Output will show that.)
