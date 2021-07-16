@@ -10,7 +10,7 @@ if dice == 1:
 if dice == 2:
     print ("Two points! It's still really low...")
 if dice == 3:
-    print ("Three points! Just like my IQ!")
+    print ("Three points! like my IQ!")
 if dice == 4:
     print ("Four points! Two times two times one!")
 if dice == 5:
@@ -18,4 +18,4 @@ if dice == 5:
 if dice == 6:
     print ("Six points! The lucky number!")
 
-#Now, we just made a dice.
+#Now, we just made a roulete.

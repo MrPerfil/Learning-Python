@@ -3,7 +3,7 @@ one=("1")
 two=("2")
 three=(one + two)
 ## u can add two texts (variables) and the "print" will just put them together!
-print (three)
+print (three) #(output is 12 because the numbers are acting as text, not actual numbers.)
 
 ##And variables can be numbers, directly!!
 four=4
